@@ -5,7 +5,7 @@ This script just moves your mouse curser 1 pixel to the right every 30 seconds a
 
 1. Create a new Note pad (right click desktop, then NEW, then choose notepad or Text Document)
 
-2. Copy and Paste the Script inside a Notepad or text document and name it MouseMover.ps1 (or download MouseMover.ps1)
+2. Copy and Paste the Script inside a Notepad or text document and name it MoveMouse.ps1 (or download MoveMouse.ps1)
 
 3. Place the script in "My Documents"
 
@@ -15,7 +15,7 @@ This script just moves your mouse curser 1 pixel to the right every 30 seconds a
      Replace ***** with your username, or open file explorer and right click my documents and chose "Copy as Path" 
              If you Copied as Path you will need to delete the "        "   before entering the directory 
 
-6. After youve navigated to My documents in PowerShell type this command to start the script     ./MouseMover.ps1
+6. After youve navigated to My documents in PowerShell type this command to start the script     ./MoveMouse.ps1
 
 Must keep PowerShell open (minimized is ok) but once you close PowerShell the script will stop running
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
