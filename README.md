@@ -5,7 +5,7 @@ This script just moves your mouse curser 1 pixel to the right every 30 seconds a
 
 1. Create a new Note pad (right click desktop, then NEW, then choose notepad or Text Document)
 
-2. Copy and Paste the Script below inside a Notepad or text document and name it MouseMover.ps1
+2. Copy and Paste the Script below inside a Notepad or text document and name it MouseMover.ps1 (or download MouseMover.ps1)
 
 3. Place the script in "My Documents"
 
