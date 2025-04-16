@@ -15,7 +15,7 @@ This script just moves your mouse curser 1 pixel to the right every 30 seconds a
      Replace ***** with your username, or open file explorer and right click my documents and chose "Copy as Path" 
              If you Copied as Path you will need to delete the "        "   before entering the directory 
 
-6. After youve navigated to My documents in PowerShell type this command to start the script     ./MoveMouse.ps1
+6. After youve navigated to My documents in PowerShell type this command to start the script     .\MoveMouse.ps1
 
 Must keep PowerShell open (minimized is ok) but once you close PowerShell the script will stop running
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
